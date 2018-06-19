@@ -1,0 +1,32 @@
+html {
+  font-size: 10px;
+  background: url(https://images.pexels.com/photos/36487/above-adventure-aerial-air.jpg?cs=srgb&dl=light-sea-flight-36487.jpg&fm=jpg) bottom center;
+  background-size: cover;
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  color: white;
+}
+
+.topnav a.active {
+  color: white;
+}
