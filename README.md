@@ -19,6 +19,9 @@ Thanks!
 ## Roadmap
 
 ### Day 1: 18 Jun 2018
-**Thoughts:** Learned about key event, transitionend event & ES6 template strings.
+ Learned about key event, transitionend event & ES6 template strings.
 
 **Tool Found:** Nice tool for finding JavaScript event keycodes at [keycode.info](http://keycode.info/)
+
+### Day 2: 19 Jun 2018
+ Learned about Css transition & transform, ES6 const keyword and live UI update after few seconds.
