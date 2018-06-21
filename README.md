@@ -25,3 +25,6 @@ Thanks!
 
 ### Day 2: 19 Jun 2018
  Learned about Css transition & transform, ES6 const keyword and live UI update after few seconds.
+
+### Day 3: 20 Jun 2018
+ Learned about CSS variables & updating them using JavaScript

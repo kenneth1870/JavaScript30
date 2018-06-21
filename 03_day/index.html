@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>03 Day</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <h2>Change CSS Variables with <span class='hl'>JS</span></h2>
+
+  <div class="controls">
+    <label for="spacing">Spacing:</label>
+    <input type="range" name="spacing" min="10" max="200" value="10" data-sizing="px">
+
+    <label for="blur">Blur:</label>
+    <input type="range" name="blur" min="0" max="25" value="10" data-sizing="px">
+
+    <label for="base">Base Color</label>
+    <input type="color" name="base" value="#ffc600">
+  </div>
+
+  <img src="https://images.unsplash.com/photo-1529440547539-b8500cf6c0c3?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=1ac93abd74a3cc16f233234b90e6a8b8&auto=format&fit=crop&w=750&q=80">
+
+
+  <script>
+    const inputs = document.querySelectorAll('.controls input');
+
+    function update() {
+      const suffix = this.dataset.sizing || '';
+      document.documentElement.style.setProperty(`--${this.name}`, this.value + suffix);
+    }
+
+    inputs.forEach(input => input.addEventListener('change', update));
+    inputs.forEach(input => input.addEventListener('mousemove', update));
+  </script>
+</body>
+</html>
