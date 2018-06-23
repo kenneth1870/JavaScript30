@@ -29,7 +29,10 @@ Thanks!
 ### Day 3: 20 Jun 2018
  Learned about CSS variables & updating them using JavaScript
 
- ### Day 4: 21 Jun 2018
+### Day 4: 21 Jun 2018
  Learned more about JavaScript array methods like filter, map, sort, reduce & others.
 
  ![ES6 Arrow function](https://pbs.twimg.com/media/C0V10qtUcAAct4D.jpg)
+
+### Day 5: 22 Jun 2018
+Learned few tips about flexbox. Planning to learn more about flexbox at [flexbox.io](http://flexbox.io/) soon.
