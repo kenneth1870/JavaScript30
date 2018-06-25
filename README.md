@@ -37,5 +37,9 @@ Thanks!
 ### Day 5: 22 Jun 2018
 Learned few tips about flexbox. Planning to learn more about flexbox at [flexbox.io](http://flexbox.io/) soon.
 
-### Day 6: 27 Dec 2016
-Learned about Fetch API, getting `.json()` from fetch response, ES6 spread operator. 
+### Day 6: 23 Jun 2018
+Learned about Fetch API, getting `.json()` from fetch response, ES6 spread operator.
+
+### Day 7: 24 Jun 2018
+Learned about new array methods like some, every, find, findIndex.
+![Day 7 of 30](https://pbs.twimg.com/media/C07gdtqUAAAtlyM.jpg)
