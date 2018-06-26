@@ -43,3 +43,7 @@ Learned about Fetch API, getting `.json()` from fetch response, ES6 spread opera
 ### Day 7: 24 Jun 2018
 Learned about new array methods like some, every, find, findIndex.
 ![Day 7 of 30](https://pbs.twimg.com/media/C07gdtqUAAAtlyM.jpg)
+
+### Day 8: 25 Jun 2018
+Had so much fun learning today. Canvas and draw.
+![Canvas](https://pbs.twimg.com/media/C1QFNMYUsAA9cxC.jpg)
