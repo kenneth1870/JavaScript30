@@ -47,3 +47,6 @@ Learned about new array methods like some, every, find, findIndex.
 ### Day 8: 25 Jun 2018
 Had so much fun learning today. Canvas and draw.
 ![Canvas](https://pbs.twimg.com/media/C1QFNMYUsAA9cxC.jpg)
+
+### Day 9: 26 Jun 2018
+Learned few useful Dev tools tricks. Debugging JavaScript code is so much fun, easy and colorful now.
