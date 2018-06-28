@@ -50,3 +50,8 @@ Had so much fun learning today. Canvas and draw.
 
 ### Day 9: 26 Jun 2018
 Learned few useful Dev tools tricks. Debugging JavaScript code is so much fun, easy and colorful now.
+
+### Day 10: 27 Jun 2018
+Learned a user-friendly feature used by popular email clients.
+
+Tool Found: It's so easy now to convert our ES5 code into readable ES6 using [lebab.io](https://lebab.io/try-it)
