@@ -55,3 +55,13 @@ Learned few useful Dev tools tricks. Debugging JavaScript code is so much fun, e
 Learned a user-friendly feature used by popular email clients.
 
 Tool Found: It's so easy now to convert our ES5 code into readable ES6 using [lebab.io](https://lebab.io/try-it)
+
+### Day 11: 28 Jun 2018
+ Learned some nice tips on creating custom interface for HTML5 video player. Really liking the ES6 arrow functions from day 4 onwards.
+
+![ES6 arrow functions](https://pbs.twimg.com/media/C1vYSZ7XUAEqZXS.jpg)
+
+**Tool Found:** [ESLint v3.13.1](http://eslint.org/blog/2017/01/eslint-v3.13.1-released)
+
+### Day 12: 29 Jun 2018
+Learned about key sequence detection & Konami code. Also, found that [BuzzFeed site](https://www.buzzfeed.com/)'s hidden easter egg is still working. To see it in action just press ':arrow_up: :arrow_up: :arrow_down: :arrow_down: :arrow_left: :arrow_right: :arrow_left: :arrow_right: B A'.
