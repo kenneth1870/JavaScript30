@@ -65,3 +65,6 @@ Tool Found: It's so easy now to convert our ES5 code into readable ES6 using [le
 
 ### Day 12: 29 Jun 2018
 Learned about key sequence detection & Konami code. Also, found that [BuzzFeed site](https://www.buzzfeed.com/)'s hidden easter egg is still working. To see it in action just press ':arrow_up: :arrow_up: :arrow_down: :arrow_down: :arrow_left: :arrow_right: :arrow_left: :arrow_right: B A'.
+
+### Day 13: 11 Jan 2017
+Learned a bit more about window events & a very useful javascript debounce function. Today's project helped me to fix an issue related to resize events which was slowing down our site. The goal behind debounce implementation is to reduce overhead by preventing a function from being called several times in succession.
