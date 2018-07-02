@@ -66,5 +66,8 @@ Tool Found: It's so easy now to convert our ES5 code into readable ES6 using [le
 ### Day 12: 29 Jun 2018
 Learned about key sequence detection & Konami code. Also, found that [BuzzFeed site](https://www.buzzfeed.com/)'s hidden easter egg is still working. To see it in action just press ':arrow_up: :arrow_up: :arrow_down: :arrow_down: :arrow_left: :arrow_right: :arrow_left: :arrow_right: B A'.
 
-### Day 13: 11 Jan 2017
+### Day 13: 30 Jun 2018
 Learned a bit more about window events & a very useful javascript debounce function. Today's project helped me to fix an issue related to resize events which was slowing down our site. The goal behind debounce implementation is to reduce overhead by preventing a function from being called several times in succession.
+
+### Day 14: 1 Jul 2018
+ Learned more about array & object reference vs actual copy. Found that primitive types are manipulated by value & reference types are manipulated by reference. Numbers and booleans are primitive types in JavaScript -- primitive because they consist of nothing more than a small, fixed number of bytes that are easily manipulated at the low (primitive) levels of the JavaScript interpreter. Objects, on the other hand, are reference types. Arrays and functions, which are specialized types of objects, are therefore also reference types. These data types can contain arbitrary numbers of properties or elements, so they cannot be manipulated as easily as fixed-size primitive values can. Since object and array values can become quite large, it doesn't make sense to manipulate these types by value, as this could involve the inefficient copying and comparing of large amounts of memory.
