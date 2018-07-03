@@ -1,7 +1,9 @@
 html {
-  font-size: 10px;
-  background: url(https://images.unsplash.com/photo-1515343480029-43cdfe6b6aae?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=250fd87139bfce9117534e300a5bf25b&auto=format&fit=crop&w=800&q=80) bottom center;
+  box-sizing: border-box;
+  background: url('https://picsum.photos/1500/1000/?random') center no-repeat;
   background-size: cover;
+  min-height: 100vh;
+  font-size: 12px;
 }
 
 body, html {
@@ -20,7 +22,7 @@ body, html {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 16px;
 }
 
 .topnav a:hover {
