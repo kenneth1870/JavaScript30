@@ -1,0 +1,32 @@
+body {
+  font-family: Verdana, Helvetica, Sans-Serif;
+  background: url("https://picsum.photos/1500/1000/?random");
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  min-height: 100vh;
+}
+
+#bands {
+  list-style: inside square;
+  font-size: 11.5px;
+  background: white;
+  width: 412px;
+  margin: auto;
+  padding: 0;
+  box-shadow: 0 0 0 20px rgba(0, 0, 0, 0.05);
+}
+
+#bands li {
+  border-bottom: 1px solid #efefef;
+  padding: 12px 20px;
+}
+
+#bands li:last-child {
+  border-bottom: 0;
+}
+
+em {
+  color: green;
+  float: right;
+}

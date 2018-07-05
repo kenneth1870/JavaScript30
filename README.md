@@ -101,3 +101,8 @@ Tested all new buttons. Data is also persisting on page reload:-
 Today learned about assigning to new variable names using ES6 Object destructuring and how we can update CSS rules like textShadow or anything using javascript. Just like canvas this was a fun challenge today. I tried some css effects like this:-
 
 ![Day 16 new taks](https://pbs.twimg.com/media/C2IFDhkWQAAv-Ck.jpg)
+
+### Day 17: 4 Jul 2018
+Updated code to show modified band names on which sort actually happens and on right side the actual band names. After code modifications it looks like this:-
+
+![Day 17 new taks](https://pbs.twimg.com/media/C2N0IDsWIAA9hLT.jpg)
