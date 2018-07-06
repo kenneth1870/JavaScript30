@@ -1,0 +1,8 @@
+body {
+  font-family: Verdana, Helvetica, Sans-Serif;
+}
+
+.videos {
+  list-style: inside square;
+  font-size: 12px;
+}

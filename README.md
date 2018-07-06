@@ -106,3 +106,11 @@ Today learned about assigning to new variable names using ES6 Object destructuri
 Updated code to show modified band names on which sort actually happens and on right side the actual band names. After code modifications it looks like this:-
 
 ![Day 17 new taks](https://pbs.twimg.com/media/C2N0IDsWIAA9hLT.jpg)
+
+### Day 18: 5 Jul 2018
+Learned more about `Array.prototype.reduce()` and its usability test case scenario. `reduce()` is quite simple & effective in specific scenarios like in the example below:-
+
+![Day 18 new taks](https://pbs.twimg.com/media/C2eCp-xWgAAbhJz.jpg)
+
+**Tools/Sites Found:**
+ - New, interactive Chrome Dev Tools tutorial: [How to analyze page load performance ⚡️🚀🔎](https://developers.google.com/web/tools/chrome-devtools/network-performance/)
