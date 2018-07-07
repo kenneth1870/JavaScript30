@@ -114,3 +114,5 @@ Learned more about `Array.prototype.reduce()` and its usability test case scenar
 
 **Tools/Sites Found:**
  - New, interactive Chrome Dev Tools tutorial: [How to analyze page load performance ⚡️🚀🔎](https://developers.google.com/web/tools/chrome-devtools/network-performance/)
+### Day 19: 6 Jul 2018
+It was too much fun today. Learned a lot about canvas and pipelining real-time images.
