@@ -124,3 +124,6 @@ It was too much fun today. Learned a lot about canvas and pipelining real-time i
 ### Day 20: 7 Jul 2018
 
 Learned about native [SpeechRecognition](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition) interface of the Web Speech API and how we can make use of it. Something like we do in google voice search. I think we can use it in various ways. Only limit is our imagination. Also liked the use npm [browser-sync](https://browsersync.io/) for time-saving synchronised browser testing.
+
+### Day 21: 8 Jul 2018
+ Worked on Device Orientation using Chrome sensors devtools. Also learned about Geolocation & Orientation Api. Unlike desktops, mobile devices commonly use GPS hardware to detect location.
