@@ -127,3 +127,6 @@ Learned about native [SpeechRecognition](https://developer.mozilla.org/en-US/doc
 
 ### Day 21: 8 Jul 2018
  Worked on Device Orientation using Chrome sensors devtools. Also learned about Geolocation & Orientation Api. Unlike desktops, mobile devices commonly use GPS hardware to detect location.
+
+### Day 22: 9 Jul 2018
+Learned about `Element.getBoundingClientRect()` method and worked on some css effects.
