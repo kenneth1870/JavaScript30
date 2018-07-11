@@ -118,15 +118,21 @@ Learned more about `Array.prototype.reduce()` and its usability test case scenar
 **Tools/Sites Found:**
 
 -   New, interactive Chrome Dev Tools tutorial: [How to analyze page load performance ⚡️🚀🔎](https://developers.google.com/web/tools/chrome-devtools/network-performance/)
-### Day 19: 6 Jul 2018
-It was too much fun today. Learned a lot about canvas and pipelining real-time images.
+    ### Day 19: 6 Jul 2018
+    It was too much fun today. Learned a lot about canvas and pipelining real-time images.
 
 ### Day 20: 7 Jul 2018
 
 Learned about native [SpeechRecognition](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition) interface of the Web Speech API and how we can make use of it. Something like we do in google voice search. I think we can use it in various ways. Only limit is our imagination. Also liked the use npm [browser-sync](https://browsersync.io/) for time-saving synchronised browser testing.
 
 ### Day 21: 8 Jul 2018
+
  Worked on Device Orientation using Chrome sensors devtools. Also learned about Geolocation & Orientation Api. Unlike desktops, mobile devices commonly use GPS hardware to detect location.
 
 ### Day 22: 9 Jul 2018
+
 Learned about `Element.getBoundingClientRect()` method and worked on some css effects.
+
+### Day 23: 10 Jul 2018
+
+"The Voiceinator 5000" challenge was great. Also, learned about SpeechSynthesis interface.
