@@ -136,3 +136,6 @@ Learned about `Element.getBoundingClientRect()` method and worked on some css ef
 ### Day 23: 10 Jul 2018
 
 "The Voiceinator 5000" challenge was great. Also, learned about SpeechSynthesis interface.
+
+### Day 24: 11 Jul 2018
+Sticky Nav was really an interesting challenge. Learned about the requirement of padding top in nav element and other UI effects using css.
