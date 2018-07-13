@@ -1,0 +1,24 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+div {
+  width: 100%;
+  padding: 100px;
+}
+
+.one {
+  background: #b41811;
+}
+
+.two {
+  background: rgb(93, 14, 138);
+}
+
+.three {
+  background: coral;
+}

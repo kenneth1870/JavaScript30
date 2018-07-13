@@ -139,3 +139,8 @@ Learned about `Element.getBoundingClientRect()` method and worked on some css ef
 
 ### Day 24: 11 Jul 2018
 Sticky Nav was really an interesting challenge. Learned about the requirement of padding top in nav element and other UI effects using css.
+
+### Day 25: 12 Jul 2018
+Learned about `Event.stopPropagation()` & `EventTarget.addEventListener()` boolean options like capture, once & passive. More details about it here:
+ - https://developer.mozilla.org/en/docs/Web/API/Event/stopPropagation
+ - https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
