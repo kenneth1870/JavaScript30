@@ -144,3 +144,6 @@ Sticky Nav was really an interesting challenge. Learned about the requirement of
 Learned about `Event.stopPropagation()` & `EventTarget.addEventListener()` boolean options like capture, once & passive. More details about it here:
  - https://developer.mozilla.org/en/docs/Web/API/Event/stopPropagation
  - https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
+
+### Day 26: 13 Jul 2018
+It was super-fun learning abt this really slick "follow along" nav found on Stripe's pricing page.
