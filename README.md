@@ -147,3 +147,6 @@ Learned about `Event.stopPropagation()` & `EventTarget.addEventListener()` boole
 
 ### Day 26: 13 Jul 2018
 It was super-fun learning abt this really slick "follow along" nav found on Stripe's pricing page.
+
+### Day 27: 14 Jul 208
+ Understood the basics behind the "Click and Drag to Scroll" challenge. element.offsetLeft play a great role in this logic.
