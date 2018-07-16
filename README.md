@@ -150,3 +150,6 @@ It was super-fun learning abt this really slick "follow along" nav found on Stri
 
 ### Day 27: 14 Jul 208
  Understood the basics behind the "Click and Drag to Scroll" challenge. element.offsetLeft play a great role in this logic.
+
+### Day 28: 15 Feb 2017
+Finished the fantastic video speed controller UI challenge today. These offset properties are pretty important for proper aligments. For block-level elements, `offsetTop`, `offsetLeft`, `offsetWidth`, and `offsetHeight` describe the border box of an element relative to the `offsetParent`. The `offsetParent` element is the nearest ancestor that has a position other than static.
