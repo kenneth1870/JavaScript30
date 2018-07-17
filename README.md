@@ -148,8 +148,12 @@ Learned about `Event.stopPropagation()` & `EventTarget.addEventListener()` boole
 ### Day 26: 13 Jul 2018
 It was super-fun learning abt this really slick "follow along" nav found on Stripe's pricing page.
 
-### Day 27: 14 Jul 208
+### Day 27: 14 Jul 2018
  Understood the basics behind the "Click and Drag to Scroll" challenge. element.offsetLeft play a great role in this logic.
 
-### Day 28: 15 Feb 2017
+### Day 28: 15 Jul 2018
 Finished the fantastic video speed controller UI challenge today. These offset properties are pretty important for proper aligments. For block-level elements, `offsetTop`, `offsetLeft`, `offsetWidth`, and `offsetHeight` describe the border box of an element relative to the `offsetParent`. The `offsetParent` element is the nearest ancestor that has a position other than static.
+
+### Day 29: 16 Jul 2018
+
+ Finished the beautiful countdown break clock challenge today. Learned about timestamps, set & clear intervals and `Date.now()`. The `Date.now()` method returns the number of milliseconds elapsed since `1 January 1970 00:00:00 UTC`. Because `now()` is a static method of Date, we can always use it as `Date.now()` instead of `new Date().now()`.
