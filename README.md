@@ -157,3 +157,9 @@ Finished the fantastic video speed controller UI challenge today. These offset p
 ### Day 29: 16 Jul 2018
 
  Finished the beautiful countdown break clock challenge today. Learned about timestamps, set & clear intervals and `Date.now()`. The `Date.now()` method returns the number of milliseconds elapsed since `1 January 1970 00:00:00 UTC`. Because `now()` is a static method of Date, we can always use it as `Date.now()` instead of `new Date().now()`.
+
+### Day 30: 17 Jul 2018
+Finally finished #JavaScript30 Day 30 Whack A Mole 🔨 challenge. It was fun learning experience. Highly recommend the entire course.
+
+## Note
+If you like this repo and find it useful, please consider ★ starring it (on top right of the page). Thanks!
